@@ -1,6 +1,6 @@
 # ⚔️ **סייבר – CyberGuard (CG)**
+<img width="1024" height="1024" alt="CyberGuard Shield with Electric Energy" src="https://github.com/user-attachments/assets/72c3fb3f-6a22-4090-8223-9c974e605673" />
 
-<img width="1024" height="1024" alt="CyberGuard Logo_ Shield of Protection" src="https://github.com/user-attachments/assets/9d42a574-219b-4cee-adda-af240021a4f2" />
 
 *(שם מאגר מוצע: **CyberGuard – CG** = Cyber + Guard)*
 
